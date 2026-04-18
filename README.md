@@ -34,14 +34,11 @@
 
 ### Technologies
 
-**Python** • Tkinter • SQLite • Markdown  
-**R** • renv  
-**C#** • .NET
+**Python**  
+**R**   
+**C#** 
 
-### Contact
 
-- LinkedIn: [linkedin.com/in/veragoncalves](https://linkedin.com/in/veragoncalves)  
-- Email: veragoncalves [at] gmail.com
 
 ---
 
