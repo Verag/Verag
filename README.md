@@ -1,47 +1,34 @@
-<!-- ============================================= -->
-<!-- GitHub Profile README - Vera Gonçalves       -->
-<!-- ============================================= -->
+# Hi, I'm Vera Gonçalves 👋
 
-<div align="center">
+**Python & R Developer**
 
-  <h1>Hi! 👋 I'm Vera Gonçalves</h1>
 
-  <p>
-    <strong>Python & R Developer</strong><br>
-    Building clean desktop tools and practical utilities.
-  </p>
-
-  <p>
-    <a href="https://github.com/Verag/desktop-wiki-py">
-      <img src="https://img.shields.io/badge/Python-Desktop%20Wiki-blue?style=flat-square&logo=python" alt="Desktop Wiki">
-    </a>
-
-  </p>
-
-</div>
 
 ---
 
-### About Me
+### About me
 
-- Passionate about **Clean Architecture** and desktop applications.
-- Currently working with **Python (Tkinter + SQLite)** and **R**.
+- I enjoy building simple, clean and practical tools.
+- I value well-structured, readable and useful code.
+- I like creating straightforward solutions for everyday problems.
 
 ### Featured Projects
 
-- **[desktop-wiki-py](https://github.com/Verag/desktop-wiki-py)** — Local-first personal wiki with MkDocs export  
-- **[programacao-algoritmia-cinel](https://github.com/Verag/programacao--algoritmia--cinel)** — Programming & Algorithms course materials (C#)
+- **[desktop-wiki-py](https://github.com/Verag/desktop-wiki-py)** — A fully offline and private personal wiki.
+- **[xlversion](https://github.com/Verag/xlversion)** — An R package for versioning and comparing Excel files.
 
 ### Technologies
 
-**Python**  
-**R**   
-**C#** 
-
-
+- **Python** 
+- **R**
+- Some experience with C# and Java
 
 ---
 
-<p align="center">
-  <i>Simple, useful, well-structured tools.</i>
-</p>
+### Contact
+
+Feel free to reach out if you have any questions or suggestions:
+- GitHub Issues (on any of my repositories)
+- Or open a discussion on one of the projects
+
+*Always learning and trying to improve, one line of code at a time.*
