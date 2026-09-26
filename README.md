@@ -8,7 +8,7 @@
 
 ### About me
 
-- I enjoy building simple, clean and practical tools.
+- Data Analyst with strong R experience, focused on analytics, automation and practical data tooling.
 - I value well-structured, readable and useful code.
 - I like creating straightforward solutions for everyday problems.
 
