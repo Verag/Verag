@@ -1,9 +1,5 @@
 # Hi, I'm Vera Gonçalves 👋
 
-**Python & R Developer**
-
-
-
 ---
 
 ### About me
